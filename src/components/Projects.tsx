@@ -3,6 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import finImage from "@/assets/fin.png";
 import taskImage from "@/assets/task.png";
 import portfolioImage from "@/assets/portfolio.png";
+import ceylonMateImage from "@/assets/ceylonmate.jpeg";
 
 const projects = [
   {
@@ -22,6 +23,12 @@ const projects = [
     category: "Web Design",
     description: "Modern responsive portfolio with smooth animations",
     image: portfolioImage,
+  },
+   {
+    title: "Final Year Project – CeylonMate",
+    category: "Mobile Development",
+    description: "Smart tourism companion app for foreign travelers in Sri Lanka, developed as part of my final year project",
+    image: ceylonMateImage,
   },
 ];
 

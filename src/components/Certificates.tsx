@@ -11,6 +11,14 @@ const certificates = [
     category: "Framework",
     link: "https://coursera.org/share/71135949eb213bc2b69d901376ce14de",
   },
+   {
+    title: "CeylonMate – Smart Tourism Companion for Foreign Travelers in Sri Lanka",
+    issuer: "ICARC 2026 – Sabaragamuwa University of Sri Lanka",
+    date: "Feb 18–19, 2026",
+    grade: "Research Paper Presentation",
+    category: "Research",
+    link: "https://drive.google.com/file/d/1MIH-FO4XYMEQgHjYoJ1weifBqUnxT1M7/view",
+  },
 ];
 
 export const Certificates = () => {
